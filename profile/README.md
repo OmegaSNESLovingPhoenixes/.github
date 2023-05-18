@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, we're Cognition-Dev the successor to **GDCCJ** and we're working to stop censorship in schools worldwide
 
 <!--
 
