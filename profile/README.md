@@ -1,4 +1,6 @@
-## Hello there 👋! We are **Cognition-Dev**, the successor to **GDCCJ**. Our goal is to eliminate censorship in schools worldwide. 
+## Hello there 👋! We are **Cognition-Dev**, the successor to **GDCCJ**. 
+
+Our goal is to eliminate censorship in schools worldwide. 
 
 We are developing games, proxies, and hacks that can bypass censorship. 
 
