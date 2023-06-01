@@ -1,4 +1,4 @@
-## Hello there! We are **Cognition-Dev**, the successor to **GDCCJ**. 
+## Hello there! We are Cognition-Dev, the successor to GDCCJ. 
 
 Our goal is to eliminate censorship in schools worldwide. 
 
@@ -9,3 +9,7 @@ Many schools install censorship software or a Chrome extensions on their Chromeb
 ## We're working on:
 
 [Cognition-Dev.github.io](Cognition-Dev.github.io)
+
+## Bypass tools
+
+[Anti-Censorship Tools](https://github.com/3kh0/ext-remover)
