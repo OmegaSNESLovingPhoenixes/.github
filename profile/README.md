@@ -2,9 +2,9 @@
 
 Our goal is to eliminate censorship in schools worldwide. 
 
-We are developing games, proxies, and hacks that can bypass censorship. 
+We develop games, proxies, and hacks that can bypass censorship worldwide to stop this infringement of students' privacy. 
 
-Many schools install censorship software or a Chrome extensions on their Chromebooks, which infringes on our privacy. That's why we are committed to stopping this practice.
+Many schools install censorship software or a Chrome extension on their Chromebooks, which infringes on our privacy. That's why we are committed to stopping this practice.
 
 ## What we're working on
 
