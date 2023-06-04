@@ -13,9 +13,7 @@ We are passionate about advocating for the safe use of technology and ensuring t
 
 <h1 align="center">Main Projects</h1>
 
-[Cognition-Dev](https://Cognition-Dev.github.io)
-
-<h3 href="https://github.com/OMEGA6405/website">about:blank Cloaker</h3>
+[about:blank Cloaker](https://github.com/OMEGA6405/website)
 
 ## What we're working on
 
