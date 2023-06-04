@@ -17,11 +17,11 @@ We are passionate about advocating for the safe use of technology and ensuring t
 
 ## Bypass tools
 
-[Anti-Censorship Tools](https://github.com/3kh0/ext-remover) / [Anti-Censorship Tools Alt (Outdated)](https://github.com/SnesLover22/KEEP-THIS-AVAILABLE)
+[Anti-Censorship Tools](https://github.com/3kh0/ext-remover) | [Anti-Censorship Tools Alt (Outdated)](https://github.com/SnesLover22/KEEP-THIS-AVAILABLE)
 
 ## Bookmarklet Hacks
 
-[Blooket Hacks](https://github.com/Minesraft2/Blooket-Cheats) / [Blooket Hacks Alt](https://github.com/OMEGA6405/Blooket-Cheats)
+[Blooket Hacks](https://github.com/Minesraft2/Blooket-Cheats) | [Blooket Hacks Alt](https://github.com/OMEGA6405/Blooket-Cheats) | https://github.com/OMEGA6405/edpuzzle-answers
 
 ## Open source game websites
 
