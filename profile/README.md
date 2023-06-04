@@ -22,3 +22,7 @@ We are passionate about advocating for the safe use of technology and ensuring t
 ## Bookmarklet Hacks
 
 [Blooket Hacks](https://github.com/Minesraft2/Blooket-Cheats) / [Blooket Hacks Alt](https://github.com/OMEGA6405/Blooket-Cheats)
+
+## Open source game websites
+
+[3hk0 v4](https://github.com/OMEGA6405/website-v4) | [3hk0 v3](https://github.com/OMEGA6405/Echo-v3) | [3hk0 v2](https://github.com/OMEGA6405/website-v2) | [3hk0 v1](https://github.com/OMEGA6405/Echo-v1)
