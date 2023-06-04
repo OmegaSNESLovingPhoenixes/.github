@@ -19,6 +19,6 @@ We are passionate about advocating for the safe use of technology and ensuring t
 
 [Anti-Censorship Tools](https://github.com/3kh0/ext-remover)
 
-## Hacks
+## Bookmarklet Hacks
 
 [Blooket Hacks](https://github.com/Minesraft2/Blooket-Cheats)
