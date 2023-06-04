@@ -12,11 +12,11 @@ As an organization, we believe every student deserves the right to access inform
 We are passionate about advocating for the safe use of technology and ensuring that student's privacy is protected no matter what.
 
 <h1 align="center">Main Projects</h1>
-<h3 align="center">about:blank Cloaker</h3>
+<h3 href="https://github.com/OMEGA6405/website">about:blank Cloaker</h3>
 
 ## What we're working on
 
-[Cognition-Dev](https://Cognition-Dev.github.io) | [Mathews-Collection](https://sneslover22.github.io/Mathews-Collection) | [OMEGA6405](https://omega6405.github.io/) 
+[Cognition-Dev](https://Cognition-Dev.github.io) | [Mathews-Collection](https://sneslover22.github.io/Mathews-Collection)
 
 ## Bypass tools
 
