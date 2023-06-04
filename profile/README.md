@@ -1,4 +1,4 @@
-## Hello there! We are Cognition-Dev, the unofficial successor to [GDCCJ.](https://github.com/GDCCJ)
+## We are Cognition-Dev, the unofficial successor to [GDCCJ.](https://github.com/GDCCJ)
 
 Our goal is to eliminate censorship in schools worldwide.
 
@@ -13,7 +13,7 @@ We are passionate about advocating for the safe use of technology and ensuring t
 
 <h1 align="center">Main Projects</h1>
 
-<h3>
+<h3 align="center">
 
 [about:blank Cloaker](https://github.com/OMEGA6405/website)
 </h3>
