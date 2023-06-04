@@ -1,4 +1,4 @@
-## Hello there! We are Cognition-Dev, the successor to GDCCJ.
+## Hello there! We are Cognition-Dev, the unofficial successor to [GDCCJ.](https://github.com/GDCCJ)
 
 Our goal is to eliminate censorship in schools worldwide.
 
