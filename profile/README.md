@@ -1,4 +1,4 @@
-## We are Cognition-Dev, the unofficial successor to [GDCCJ.](https://github.com/GDCCJ)
+## We are the **Omega SNES Loving Phoenixes**, the unofficial successor to [GDCCJ.](https://github.com/GDCCJ)
 
 Our goal is to eliminate censorship in schools worldwide.
 
