@@ -1,5 +1,7 @@
 ## Hello there! We are Cognition-Dev, the successor to GDCCJ.
 
+<h3> Info </h3>
+
 Our goal is to eliminate censorship in schools worldwide.
 
 Many schools install censorship software or Chrome extensions on their Chromebooks, which infringes on our privacy. That's why we are committed to stopping this practice.
