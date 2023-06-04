@@ -11,6 +11,8 @@ We also advocate for the safe use of technology and the protection of student pr
 As an organization, we believe every student deserves the right to access information online without censorship. 
 We are passionate about advocating for the safe use of technology and ensuring that student's privacy is protected no matter what.
 
+<h1 align="center">Main Projects</h1>
+
 ## What we're working on
 
 [Cognition-Dev](https://Cognition-Dev.github.io) | [Mathews-Collection](https://sneslover22.github.io/Mathews-Collection) | [OMEGA6405](https://omega6405.github.io/) 
