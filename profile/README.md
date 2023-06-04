@@ -21,4 +21,4 @@ We are passionate about advocating for the safe use of technology and ensuring t
 
 ## Bookmarklet Hacks
 
-[Blooket Hacks](https://github.com/Minesraft2/Blooket-Cheats)
+[Blooket Hacks](https://github.com/Minesraft2/Blooket-Cheats) / [Blooket Hacks Alt](https://github.com/OMEGA6405/Blooket-Cheats)
