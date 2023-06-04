@@ -12,6 +12,7 @@ As an organization, we believe every student deserves the right to access inform
 We are passionate about advocating for the safe use of technology and ensuring that student's privacy is protected no matter what.
 
 <h1 align="center">Main Projects</h1>
+Anti censorship about:blank cloaker
 
 ## What we're working on
 
