@@ -17,7 +17,7 @@ We are passionate about advocating for the safe use of technology and ensuring t
 
 ## Bypass tools
 
-[Anti-Censorship Tools](https://github.com/3kh0/ext-remover)
+[Anti-Censorship Tools](https://github.com/3kh0/ext-remover) / [Anti-Censorship Tools Alt (Outdated)](https://github.com/SnesLover22/KEEP-THIS-AVAILABLE)
 
 ## Bookmarklet Hacks
 
