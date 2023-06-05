@@ -20,7 +20,7 @@ We are passionate about advocating for the safe use of technology and ensuring t
 
 ## What we're working on
 
-[Cognition-Dev](https://Cognition-Dev.github.io) | [Mathews-Collection](https://sneslover22.github.io/Mathews-Collection)
+[Cognition-Dev](https://omegasneslovingphoenixes.github.io/redirect/) | [Mathews-Collection](https://sneslover22.github.io/Mathews-Collection)
 
 ## Bypass tools
 
