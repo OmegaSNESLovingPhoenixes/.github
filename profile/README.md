@@ -15,7 +15,7 @@ We are passionate about advocating for the safe use of technology and ensuring t
 
 <h3 align="center">
 
-[about:blank Cloaker](https://github.com/OMEGA6405/redirect)
+[about:blank Cloaker](https://omegasneslovingphoenixes.github.io/redirect/)
 </h3>
 
 ## What we're working on
