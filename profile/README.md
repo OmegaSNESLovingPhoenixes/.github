@@ -9,7 +9,7 @@ We will always provide open-source tools to help students bypass censorship and 
 We also advocate for the safe use of technology and the protection of student privacy. We're dedicated to helping students reclaim their digital rights. 
 
 As an organization, we believe every student deserves the right to access information online without censorship. 
-We are passionate about advocating for the safe use of technology and ensuring that student's privacy is protected no matter what.
+We are passionate about advocating for the safe use of technology and ensuring that students' privacy is protected no matter what.
 
 <h1 align="center">Main Projects</h1>
 
